@@ -1,3 +1,5 @@
+# 这是一个基于Vue的查询项目 查询结果包括 规范条文、图谱、规范编号、词云 等内容
+## 后端架构为Elasticsearch + javaspringboot +neo4j
 # vuecli001
 
 ## Project setup
